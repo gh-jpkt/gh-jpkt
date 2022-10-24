@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpkt990410
-- This GitHub account is only used for my school life.
+- This GitHub account is mainly used for my school life.
 I put contents on GitHub only to make them easily accessible from mobile and other devices, so you won't find anything meaningful.
 
 <!---
