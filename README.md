@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpkt990410
+- 👋 Hi, I’m @gh-jpkt
 - This GitHub account is mainly used for my school life.
 I put contents on GitHub only to make them easily accessible from mobile and other devices, so you won't find anything meaningful.
 
